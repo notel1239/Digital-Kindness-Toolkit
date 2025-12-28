@@ -23,6 +23,12 @@ We believe in the power of community collaboration. You can contribute by:
 4. Join the conversation and help build a kinder digital Philippines!
 
 ## Resource List
+Here are some initial resources for immediate support:
+
+- **National Center for Mental Health (NCMH) Crisis Hotline** – 1553 (Landline) / 0966-351-4518 (Globe) / 0917-899-8727 (USAP). 24/7 mental health support and crisis intervention.
+- **Hopeline Philippines** – (02) 8804-4673 / 0917-558-4673. Free counseling and suicide prevention hotline, available 24/7.
+- **PNP Anti-Cybercrime Group** – (02) 8723-0401 local 5353. For reporting cybercrime incidents, including cyberbullying, online scams, and harassment.
+
 *More resources will be added soon. Check the issues for ongoing collection.*
 
 ## License
